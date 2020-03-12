@@ -295,6 +295,7 @@ muscadine grape
 common grape
 arctic blackberry
 banana
+bananas
 bayberry
 elliott's blueberry
 canada blueberry
@@ -867,3 +868,4 @@ beans
 pulses
 soy
 soy products
+oil

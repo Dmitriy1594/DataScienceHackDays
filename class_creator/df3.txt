@@ -27,3 +27,5 @@ unfermented milks
 other milk products
 fermented milks
 milk and milk products
+cheese
+mozzarella
