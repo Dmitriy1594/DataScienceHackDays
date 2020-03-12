@@ -1,0 +1,29 @@
+cheese
+milk (cow)
+yogurt
+ymer
+butter
+cream
+whey
+casein
+milk (human)
+dried milk
+milk (other mammals)
+kefir
+buttermilk
+other fermented milk
+processed cheese
+butterfat
+evaporated milk
+condensed milk
+milk and milk products
+cow milk, pasteurized, vitamin a + d added, 0% fat
+cow milk, pasteurized, vitamin a + d added, 1% fat
+cow milk, pasteurized, vitamin a + d added, 2% fat
+cow milk, pasteurized, vitamin d added, 3.25% fat
+milk and milk products
+fermented milk products
+unfermented milks
+other milk products
+fermented milks
+milk and milk products

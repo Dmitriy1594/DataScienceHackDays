@@ -1,0 +1,164 @@
+oat
+common buckwheat
+tartary buckwheat
+barley
+rice
+millet
+rye
+sorghum
+common wheat
+corn
+red rice
+annual wild rice
+hard wheat
+triticale
+other bread
+breakfast cereal
+other cereal product
+pasta
+biscuit
+sourdough
+spelt
+wild rice
+oriental wheat
+wheat
+crisp bread
+zwieback
+tortilla
+bulgur
+semolina
+flour
+dough
+pita bread
+focaccia
+bagel
+other bread product
+piki bread
+french toast
+wheat bread
+rye bread
+oat bread
+potato bread
+cornbread
+corn grits
+multigrain bread
+rice bread
+pan dulce
+raisin bread
+cereals and cereal products
+ice cream
+honey
+liquorice
+nougat
+toffee
+cake
+pastry
+dragée
+chewing gum
+marzipan
+marshmallow
+chocolate spread
+fruit gum
+other candy
+meringue
+icing
+dulce de leche
+sweet custard
+gelatin dessert
+junket
+other frozen dessert
+pudding
+pie
+akutaq
+frozen yogurt
+milkshake
+chocolate mousse
+fudge
+candy bar
+vinegar
+salad dressing
+sauce
+salt
+butter substitute
+sugar
+mustard
+sugar substitute
+meat bouillon
+leavening agent
+gelatin
+syrup
+remoulade
+cream substitute
+topping
+pectin
+coffee substitute
+tapioca pearl
+spread
+egg substitute
+ketchup
+adobo
+relish
+phyllo dough
+cooking oil
+pie crust
+pie filling
+ice cream cone
+molasses
+wonton wrapper
+stuffing
+edible shell
+milk substitute
+other snack food
+snack bar
+popcorn
+potato chip
+tortilla chip
+corn chip
+cracker
+trail mix
+avena sativa
+fagopyrum esculentum
+fagopyrum tataricum
+hordeum vulgare
+oryza sativa
+panicum miliaceum
+secale cereale
+sorghum bicolor
+triticum aestivum
+zea mays
+oryza rufipogon
+zizania aquatica
+triticum durum
+x triticosecale rimpaui
+triticum spelta
+zizania
+triticum turanicum
+triticum
+cereals and cereal products
+confectioneries
+baking goods
+snack foods
+cereals
+other breads
+cereal products
+doughs
+flat breads
+leavened breads
+bread products
+sweet breads
+cereals and cereal products
+frozen desserts
+other confectioneries
+candies
+desserts
+spreads
+milk desserts
+seasonings
+dressings
+sauces
+substitutes
+sugars
+condiments
+baking goods
+wrappers
+snack foods

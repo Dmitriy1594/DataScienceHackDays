@@ -1,0 +1,112 @@
+tallow
+lard
+other animal fat
+shortening
+dripping
+margarine
+margarine-like spread
+fats and oils
+beaver
+bison
+black bear
+wild boar
+brown bear
+buffalo
+caribou
+chicken (cock, hen, rooster)
+mule deer
+mallard duck
+elk
+emu
+greylag goose
+guinea hen
+horse
+moose
+muskrat
+opossum
+ostrich
+velvet duck
+pheasant
+polar bear
+european rabbit
+raccoon
+sheep (mutton, lamb)
+squab
+squirrel
+turkey
+cattle (beef, veal)
+deer
+arctic ground squirrel
+rabbit
+domestic goat
+beefalo
+antelope
+domestic pig (piglet, pork)
+great horned owl
+quail
+anatidae (duck, goose, swan)
+mountain hare
+rock ptarmigan
+columbidae (dove, pigeon)
+other meat product
+animal foods
+castor canadensis
+bison bison
+ursus americanus
+sus scrofa
+ursus arctos
+bubalus bubalis
+rangifer tarandus
+gallus gallus
+odocoileus
+anas platyrhynchos
+cervus canadensis
+dromaius novaehollandiae
+anser anser
+numida meleagris
+equus caballus
+alces alces
+ondatra zibethicus
+didelphis virginiana
+struthio camelus
+melanitta fusca
+phasianus colchicus
+ursus maritimus
+oryctolagus
+procyon lotor
+ovis aries
+columba
+sciuridae
+meleagris gallopavo
+bos taurus
+cervidae
+urocitellus parryii
+leporidae
+capra aegagrus hircus
+bos taurus x bison bison
+artiodactyla
+sus scrofa domestica
+bubo virginianus
+phasianidae
+anatidae
+lepus timidus
+lagopus muta
+columbidae
+fats and oils
+animal foods
+animal fats
+vegetable fats
+fats and oils
+rodents
+bovines
+other mammals
+swine
+venison
+poultry
+equines
+marsupials
+lagomorphs
+ovis
+caprae
+meat products
+animal foods

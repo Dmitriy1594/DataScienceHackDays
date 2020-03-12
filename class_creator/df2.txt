@@ -1,0 +1,401 @@
+tea
+hibiscus tea
+greenthread tea
+coffee
+arabica coffee
+robusta coffee
+coffee mocha
+coffee and coffee products
+beer
+spirit
+fortified wine
+other alcoholic beverage
+grape wine
+berry wine
+other wine
+apple cider
+liquor
+vodka
+whisky
+gin
+rum
+port wine
+vermouth
+sherry
+madeira wine
+water
+other beverage
+energy drink
+sake
+cocktail
+nutritional drink
+fruit juice
+fruit-flavor drink
+vegetable juice
+horchata
+soft drink
+alcoholic beverages
+beverages
+abalone
+agar
+red king crab
+atlantic herring
+atlantic mackerel
+painted comber
+atlantic pollock
+atlantic wolffish
+striped bass
+beluga whale
+alaska blackfish
+blue crab
+blue mussel
+northern bluefin tuna
+bluefish
+bowhead whale
+burbot
+american butterfish
+common carp
+channel catfish
+cisco
+nuttall cockle
+pacific cod
+atlantic cod
+common octopus
+atlantic croaker
+cusk
+cuttlefish
+devilfish
+dolphin fish
+freshwater drum
+dungeness crab
+eastern oyster
+freshwater eel
+european anchovy
+turbot
+florida pompano
+greenland halibut/turbot
+grouper
+haddock
+hippoglossus (common halibut)
+irish moss
+pacific jack mackerel
+kelp
+king mackerel
+leather chiton
+common ling
+lingcod
+american lobster
+milkfish
+monkfish
+striped mullet
+ocean pout
+north pacific giant octopus
+tunicate
+spotted seal
+pacific herring
+pacific oyster
+pacific rockfish
+northern pike
+rainbow smelt
+rainbow trout
+orange roughy
+sablefish
+pink salmon
+chum salmon
+coho salmon
+sockeye salmon
+chinook salmon
+atlantic salmon
+spanish mackerel
+pacific sardine
+scallop
+scup
+sea cucumber
+steller sea lion
+bearded seal
+ringed seal
+seatrout
+american shad
+shark
+sheefish
+sheepshead
+skipjack tuna
+snapper
+spirulina
+greater sturgeon
+white sucker
+pumpkinseed sunfish
+swordfish
+tilefish
+salmonidae (salmon, trout)
+walleye
+alaska pollock
+whelk
+coalfish pollock
+broad whitefish
+whitefish
+whiting
+yellowfin tuna
+yellowtail amberjack
+pollock
+albacore tuna
+gadus (common cod)
+atlantic halibut
+pacific halibut
+pacific salmon
+smelt
+clupeinae (herring, sardine, sprat)
+spiny lobster
+snow crab
+percoidei (bass and others)
+perciformes (perch-like fishes)
+bivalvia (clam, mussel, oyster)
+squid
+shrimp
+crayfish
+flatfish
+walrus
+purple laver
+wakame
+spot croaker
+atlantic menhaden
+jellyfish
+anchovy
+blue whiting
+carp bream
+sturgeon
+charr
+crab
+common dab
+spiny dogfish
+anguilliformes (eel)
+true frog
+garfish
+gadiformes (cod, hake)
+lake trout
+lemon sole
+clawed lobster
+lumpsucker
+scombridae (bonito, mackerel, tuna)
+marine mussel
+norway haddock
+norway lobster
+norway pout
+true oyster
+pikeperch
+pleuronectidae (dab, halibut, plaice)
+pacific ocean perch
+true seal
+red algae
+kombu
+snail
+true sole
+catfish
+thunnus (common tuna)
+cetacea (dolphin, porpoise, whale)
+conch
+other fish product
+roe
+cichlidae (tilapia)
+green turtle
+ascidians
+crustaceans
+fishes
+mollusks
+baby food
+camellia sinensis
+hibiscus sabbariffa
+thelesperma
+coffea
+coffea arabica
+coffea canephora
+haliotis
+eucheuma
+paralithodes camtschaticus
+clupea harengus harengus
+scomber scombrus
+serranus scriba
+pollachius pollachius
+anarhichas lupus
+morone saxatilis
+delphinapterus leucas
+dallia pectoralis
+callinectes sapidus
+mytilus edulis
+thunnus thynnus
+pomatomus saltatrix
+balaena mysticetus
+lota lota
+peprilus triacanthus
+cyprinus carpio
+ictalurus punctatus
+coregonus artedi
+clinocardium nuttallii
+gadus macrocephalus
+gadus morhua
+octopus vulgaris
+micropogonias undulatus
+brosme brosme
+sepiidae
+myoxocephalus
+coryphaena hippurus
+aplodinotus grunniens
+cancer magister
+crassostrea virginica
+anguilla
+engraulis encrasicolus
+scophthalmus maximus
+trachinotus carolinus
+reinhardtius hippoglossoides
+epinephelus
+melanogrammus aeglefinus
+hippoglossus
+chondrus crispus
+trachurus symmetricus
+laminaria
+scomberomorus cavalla
+katharina tunicata
+molva molva
+ophiodon elongatus
+homarus americanus
+chanos chanos
+lophius piscatorius
+mugil cephalus
+zoarces americanus
+enteroctopus dofleini
+tunicata
+phoca largha
+clupea pallasii
+crassostrea gigas
+sebastes
+esox lucius
+osmerus mordax
+oncorhynchus mykiss
+hoplostethus atlanticus
+anoplopoma fimbria
+oncorhynchus gorbuscha
+oncorhynchus keta
+oncorhynchus kisutch
+oncorhynchus nerka
+oncorhynchus tshawytscha
+salmo salar
+scomberomorus maculatus
+sardinops sagax
+pectinidae
+stenotomus chrysops
+parastichopus californicus
+eumetopias jubatus
+erignathus barbatus
+pusa hispida
+cynoscion
+alosa sapidissima
+squaliformes
+stenodus leucichthys
+archosargus probatocephalus
+katsuwonus pelamis
+lutjanidae
+spirulina
+acipenser
+catostomus commersonii
+lepomis gibbosus
+xiphias gladius
+lopholatilus chamaeleonticeps
+salmonidae
+sander vitreus
+theragra chalcogramma
+buccinidae
+pollachius virens
+coregonus nasus
+coregonus
+merlangius merlangus
+thunnus albacares
+seriola lalandi
+pollachius
+thunnus alalunga
+gadus
+hippoglossus hippoglossus
+hippoglossus stenolepis
+oncorhynchus
+osmeridae
+clupeinae
+palinuridae
+chionoecetes opilio
+percoidei
+perciformes
+bivalvia
+teuthida
+caridea
+astacidea
+pleuronectiformes
+odobenus rosmarus
+porphyra laciniata
+undaria pinnatifida
+leiostomus xanthurus
+brevoortia tyrannus
+scyphozoa
+engraulidae
+micromesistius poutassou
+abramis brama
+acipenseridae
+salvelinus
+brachyura
+limanda limanda
+squalus acanthias
+anguilliformes
+ranidae
+belone belone
+gadiformes
+salvelinus namaycush
+microstomus kitt
+nephropidae
+cyclopteridae
+scombridae
+mytilidae
+sebastes viviparus
+nephrops norvegicus
+trisopterus esmarkii
+ostreidae
+sander lucioperca
+pleuronectidae
+sebastes alutus
+phocidae
+rhodophyta
+saccharina japonica
+gastropoda
+soleidae
+siluriformes
+thunnus
+cetacea
+strombidae
+cichlidae
+chelonia mydas
+ascidiacea
+teas
+coffee and coffee products
+beverages
+aquatic foods
+baby foods
+teas
+herbal teas
+coffee
+coffee products
+coffee and coffee products
+fermented beverages
+distilled beverages
+fortified wines
+alcoholic beverages
+waters
+other beverages
+nutritional beverages
+beverages
+mollusks
+seaweed
+crustaceans
+fishes
+cetaceans
+other aquatic foods
+pinnipeds
+amphibians
+fish products
+roe
+baby foods

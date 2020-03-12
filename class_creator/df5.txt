@@ -1,0 +1,869 @@
+angelica
+silver linden
+garlic
+chives
+lemon verbena
+dill
+wild celery
+horseradish
+tarragon
+mugwort
+borage
+turnip
+capers
+safflower
+caraway
+roman camomile
+chinese cinnamon
+ceylon cinnamon
+coriander
+saffron
+cumin
+turmeric
+lemon grass
+cardamom
+fennel
+sunflower
+hyssop
+star anise
+sweet bay
+lovage
+flaxseed
+mexican oregano
+german camomile
+lemon balm
+mentha (mint)
+orange mint
+cornmint
+spearmint
+peppermint
+nutmeg
+sweet basil
+evening primrose
+sweet marjoram
+pot marjoram
+common oregano
+poppy
+parsley
+anise
+pepper (spice)
+purslane
+watercress
+rosemary
+sorrel
+common sage
+summer savory
+winter savory
+sesame
+cloves
+dandelion
+common thyme
+linden
+small-leaf linden
+fenugreek
+vanilla
+common verbena
+ginger
+chinese chives
+ginseng
+lemon thyme
+welsh onion
+celery leaves
+italian oregano
+pineappple sage
+alfalfa
+allspice
+amaranth
+breadnut tree seed
+chervil
+chia
+cottonseed
+dock
+fireweed
+ginkgo nuts
+lotus
+white mustard
+opium poppy
+quinoa
+rose hip
+roselle
+hedge mustard
+teff
+wasabi
+tea leaf willow
+rowal
+epazote
+sourdock
+cinnamon
+oil palm
+sago palm
+curry powder
+babassu palm
+cupuaçu
+shea tree
+oil-seed camellia
+ucuhuba
+yellow pond-lily
+soft-necked garlic
+herbs and spices
+canola
+savoy cabbage
+allium (onion)
+garden onion
+leek
+burdock
+asparagus
+common beet
+chinese mustard
+swede
+rape
+common cabbage
+cauliflower
+brussel sprouts
+kohlrabi
+broccoli
+chinese cabbage
+pepper (c. annuum)
+endive
+chicory
+globe artichoke
+wild carrot
+rocket salad (ssp.)
+swamp cabbage
+sweet potato
+lettuce
+garden cress
+olive
+parsnip
+avocado
+radish
+garden rhubarb
+garden tomato
+cherry tomato
+garden tomato (var.)
+eggplant
+potato
+spinach
+celeriac
+celery stalks
+garden onion (var.)
+pepper (c. baccatum)
+pepper (c. chinense)
+pepper (capsicum)
+swiss chard
+tronchuda cabbage
+shallot
+rocket salad
+carrot
+black cabbage
+chicory leaves
+komatsuna
+pak choy
+napa cabbage
+chicory roots
+kai-lan
+oxheart cabbage
+daikon radish
+black radish
+radish (var.)
+red beetroot
+arrowhead
+arrowroot
+bamboo shoots
+rapini
+giant butterbur
+cardoon
+carob
+cassava
+chinese broccoli
+chinese water chestnut
+garland chrysanthemum
+corn salad
+oregon yampah
+groundcherry
+horseradish tree
+jerusalem artichoke
+jute
+kale
+lambsquarters
+wild leek
+sacred lotus
+malabar spinach
+alpine sweetvetch
+mountain yam
+mustard spinach
+new zealand spinach
+nopal
+okra
+pepper (c. frutescens)
+american pokeweed
+prairie turnip
+common salsify
+sesbania flower
+taro
+mexican groundcherry
+yam
+jicama
+yautia
+alaska wild rhubarb
+jew's ear
+common mushroom
+shiitake
+enokitake
+oyster mushroom
+cloud ear fungus
+maitake
+ostrich fern
+agave
+narrowleaf cattail
+chanterelle
+black salsify
+thistle
+other vegetable product
+heart of palm
+morchella (morel)
+tree fern
+pepper (c. pubescens)
+cabbage
+mushrooms
+onion-family vegetables
+brassicas
+green vegetables
+root vegetables
+green bell pepper
+yellow bell pepper
+orange bell pepper
+red bell pepper
+italian sweet red pepper
+white cabbage
+romaine lettuce
+kiwi
+pineapple
+custard apple
+star fruit
+papaya
+lime
+lemon
+pummelo
+mandarin orange (clementine, tangerine)
+sweet orange
+quince
+japanese persimmon
+black crowberry
+loquat
+wax apple
+fig
+strawberry
+black huckleberry
+sea-buckthornberry
+lichee
+apple
+mango
+medlar
+mulberry
+black mulberry
+passion fruit
+date
+black chokeberry
+prunus (cherry, plum)
+apricot
+sweet cherry
+sour cherry
+european plum
+peach
+guava
+pomegranate
+pear
+blackcurrant
+redcurrant
+gooseberry
+rubus (blackberry, raspberry)
+cloudberry
+red raspberry
+black raspberry
+black elderberry
+rowanberry
+tamarind
+vaccinium (blueberry, cranberry, huckleberry)
+lowbush blueberry
+sparkleberry
+highbush blueberry
+american cranberry
+bilberry
+lingonberry
+muscadine grape
+common grape
+arctic blackberry
+banana
+bayberry
+elliott's blueberry
+canada blueberry
+bog bilberry
+buffalo currant
+european cranberry
+deerberry
+cascade huckleberry
+oval-leaf huckleberry
+evergreen huckleberry
+red huckleberry
+longan
+summer grape
+fox grape
+nectarine
+peach (var.)
+rambutan
+half-highbush blueberry
+grapefruit/pummelo hybrid
+grapefruit
+jostaberry
+sweet rowanberry
+skunk currant
+abiyuch
+acerola
+asian pear
+breadfruit
+natal plum
+cherimoya
+coconut
+malus (crab apple)
+squashberry
+durian
+elderberry
+grape
+alaska blueberry
+jackfruit
+java plum
+jujube
+kumquat
+loganberry
+mammee apple
+purple mangosteen
+ohelo berry
+common persimmon
+pitanga
+plains prickly pear
+french plantain
+prickly pear
+malabar plum
+salmonberry
+sapodilla
+mamey sapote
+soursop
+strawberry guava
+sugar apple
+boysenberry
+persian lime
+feijoa
+common chokecherry
+persimmon
+fruit preserve
+other fruit product
+fruit salad
+nance
+naranjilla
+chinese bayberry
+pomes
+citrus
+fruits
+saskatoon berry
+nanking cherry
+cashew nut
+peanut
+brazil nut
+pecan nut
+chestnut
+common hazelnut
+black walnut
+common walnut
+pine nut
+pistachio
+almond
+macadamia nut (m. tetraphylla)
+japanese walnut
+acorn
+beech nut
+butternut
+chinese chestnut
+european chestnut
+hazelnut
+hickory nut
+japanese chestnut
+pili nut
+colorado pinyon
+macadamia nut
+walnut
+mixed nuts
+nuts
+pigeon pea
+chickpea
+grass pea
+lentils
+lupine
+scarlet bean
+lima bean
+common bean
+common pea
+broad bean
+adzuki bean
+gram bean
+mung bean
+climbing bean
+cowpea
+catjang pea
+hyacinth bean
+white lupine
+moth bean
+winged bean
+black-eyed pea
+yardlong bean
+bean
+pulses
+yellow wax bean
+green bean
+soy bean
+other soy product
+soy sauce
+miso
+tofu
+soy milk
+soy yogurt
+soy cream
+natto
+angelica keiskei
+tilia argentea
+allium sativum
+allium schoenoprasum
+aloysia triphylla
+anethum graveolens
+apium graveolens
+armoracia rusticana
+artemisia dracunculus
+artemisia vulgaris
+borago officinalis
+brassica rapa var. rapa
+capparis spinosa
+carthamus tinctorius
+carum carvi
+chamaemelum nobile
+cinnamomum aromaticum
+cinnamomum verum
+coriandrum sativum
+crocus sativus
+cuminum cyminum
+curcuma longa
+cymbopogon citratus
+elettaria cardamomum
+foeniculum vulgare
+helianthus annuus
+hyssopus officinalis
+illicium verum
+laurus nobilis
+levisticum officinale
+linum usitatissimum
+lippia graveolens
+matricaria recutita
+melissa officinalis
+mentha
+mentha aquatica
+mentha arvensis
+mentha spicata
+mentha x piperita
+myristica fragrans
+ocimum basilicum
+oenothera biennis
+origanum majorana
+origanum onites
+origanum vulgare
+papaver
+petroselinum crispum
+pimpinella anisum
+piper nigrum
+portulaca oleracea
+rorippa nasturtium-aquaticum
+rosmarinus officinalis
+rumex acetosa
+salvia officinalis
+satureja hortensis
+satureja montana
+sesamum orientale
+syzygium aromaticum
+taraxacum officinale
+thymus vulgaris
+tilia
+tilia cordata
+trigonella foenum-graecum
+vanilla
+verbena officinalis
+zingiber officinale
+allium tuberosum
+panax
+thymus pulegioides
+allium fistulosum
+apium graveolens var. secalinum
+origanum x majoricum
+salvia elegans
+medicago sativa
+pimenta dioica
+amaranthus
+brosimum alicastrum
+anthriscus cerefolium
+salvia hispanica
+gossypium
+rumex
+chamerion angustifolium
+ginkgo biloba
+nelumbo
+sinapis alba
+papaver somniferum
+chenopodium quinoa
+rosa
+hibiscus sabdariffa
+sisymbrium
+eragrostis tef
+wasabia japonica
+salix pulchra
+pangium edule
+dysphania ambrosioides
+rumex articus
+cinnamomum
+elaeis
+metroxylon sagu
+attalea speciosa
+theobroma grandiflorum
+vitellaria paradoxa
+camellia oleifera
+virola surinamensis
+nuphar lutea
+allium sativum l. var. sativum
+brassica oleracea var. sabauda
+allium
+allium cepa
+allium porrum
+arctium lappa
+asparagus officinalis
+beta vulgaris
+brassica juncea
+brassica napus
+brassica napus var. napus
+brassica oleracea
+brassica oleracea var. botrytis
+brassica oleracea var. gemmifera
+brassica oleracea var. gongylodes
+brassica oleracea var. italica
+brassica rapa
+capsicum annuum
+cichorium endivia
+cichorium intybus
+cynara scolymus
+daucus carota
+eruca vesicaria ssp. sativa
+ipomoea aquatica
+ipomoea batatas
+lactuca sativa
+lepidium sativum
+olea europaea
+pastinaca sativa
+persea americana
+raphanus sativus
+rheum rhabarbarum
+solanum lycopersicum
+solanum lycopersicum var. cerasiforme
+solanum lycopersicum var. lycopersicum
+solanum melongena
+solanum tuberosum
+spinacia oleracea
+apium graveolens var. rapaceum
+apium graveolens var. dulce
+allium cepa var. cepa
+capsicum baccatum var. baccatum
+capsicum chinense
+capsicum
+beta vulgaris ssp. cicla
+brassica oleracea var. costata
+allium ascalonicum
+eruca vesicaria
+daucus carota ssp. sativus
+brassica oleracea var. viridis
+cichorium intybus var. foliosum
+brassica rapa var. perviridis
+brassica rapa var. chinensis
+brassica rapa var. pekinensis
+cichorium intybus var. sativum
+brassica oleracea var. alboglabra
+brassica oleracea var. conica
+raphanus sativus var. longipinnatus
+raphanus sativus var. niger
+raphanus sativus var. sativus
+beta vulgaris var. rubra
+sagittaria latifolia
+maranta arundinacea
+phyllostachys edulis
+brassica ruvo
+petasites japonicus
+cynara cardunculus
+ceratonia siliqua
+manihot esculenta
+brassica alboglabra
+eleocharis dulcis
+chrysanthemum coronarium
+valerianella locusta
+perideridia oregana
+physalis
+moringa oleifera
+helianthus tuberosus
+corchorus olitorius
+brassica napus var. pabularia
+chenopodium album
+allium ampeloprasum
+nelumbo nucifera
+basella alba
+hedysarum alpinum
+dioscorea pentaphylla
+brassica perviridis
+tetragonia tetragonioides
+opuntia cochenillifera
+abelmoschus esculentus
+capsicum annuum var. annuum
+phytolacca americana
+pediomelum esculentum
+tragopogon porrifolius
+sesbania bispinosa
+colocasia esculenta
+physalis philadelphica var. immaculata
+dioscorea
+pachyrhizus erosus
+xanthosoma sagittifolium
+polygonum alpinum
+auricularia auricula-judae
+agaricus bisporus
+lentinus edodes
+flammulina velutipes
+pleurotus ostreatus
+auricularia polytricha
+grifola frondosa
+matteuccia struthiopteris
+agave
+typha angustifolia
+cantharellus cibarius
+scorzonera hispanica
+cirsium
+morchellaceae
+cyathea
+capsicum pubescens
+brassica oleracea var. capitata
+brassica oleracea l. var. capitata l. f. alba dc.
+lactuca sativa l. var. longifolia
+actinidia chinensis
+ananas comosus
+annona reticulata
+averrhoa carambola
+carica papaya
+citrus aurantiifolia
+citrus limon
+citrus maxima
+citrus reticulata
+citrus sinensis
+cydonia oblonga
+diospyros kaki
+empetrum nigrum
+eriobotrya japonica
+eugenia
+ficus carica
+fragaria x ananassa
+gaylussacia baccata
+hippophae rhamnoides
+litchi chinensis
+malus pumila
+mangifera indica
+mespilus germanica
+morus
+morus nigra
+passiflora edulis
+phoenix dactylifera
+photinia melanocarpa
+prunus
+prunus armeniaca
+prunus avium
+prunus cerasus
+prunus domestica
+prunus persica
+psidium guajava
+punica granatum
+pyrus communis
+ribes nigrum
+ribes rubrum
+ribes uva-crispa
+rubus
+rubus chamaemorus
+rubus idaeus
+rubus occidentalis
+sambucus nigra
+sorbus aucuparia
+tamarindus indica
+vaccinium
+vaccinium angustifolium
+vaccinium arboreum
+vaccinium corymbosum
+vaccinium macrocarpon
+vaccinium myrtillus
+vaccinium vitis-idaea
+vitis rotundifolia
+vitis vinifera
+rubus arcticus
+musa acuminata
+myrica
+vaccinium elliottii
+vaccinium myrtilloides
+vaccinium uliginosum
+ribes aureum var. villosum
+vaccinium oxycoccos
+vaccinium stamineum
+vaccinium deliciosum
+vaccinium ovalifolium
+vaccinium ovatum
+vaccinium parvifolium
+dimocarpus longan
+vitis aestivalis
+vitis labrusca
+prunus persica var. nucipersica
+prunus persica var. persica
+nephelium lappaceum
+vaccinium angustifolium x vaccinium corymbosum
+citrus paradisi x citrus maxima
+citrus x paradisi
+ribes × nidigrolaria
+grataegosorbus mitschurinii
+ribes glandulosum
+crateva religiosa
+malpighia emarginata
+pyrus pyrifolia
+artocarpus altilis
+carissa macrocarpa
+annona cherimola
+cocos nucifera
+malus
+viburnum edule
+durio zibethinus
+sambucus
+vitis
+vaccinium alaskaense
+artocarpus heterophyllus
+syzygium cumini
+ziziphus zizyphus
+fortunella
+rubus loganobaccus
+mammea americana
+garcinia mangostana
+vaccinium reticulatum
+diospyros virginiana
+eugenia uniflora
+opuntia macrorhiza
+musa x paradisiaca
+opuntia
+syzygium jambos
+rubus spectabilis
+manilkara zapota
+pouteria sapota
+annona muricata
+psidium cattleianum
+annona squamosa
+rubus ursinus x idaeus
+citrus latifolia
+feijoa sellowiana
+prunus virginiana
+diospyros
+byrsonima crassifolia
+solanum quitoense
+myrica rubra
+amelanchier alnifolia
+prunus tomentosa
+anacardium occidentale
+arachis hypogaea
+bertholletia excelsa
+carya illinoinensis
+castanea
+corylus avellana
+juglans nigra
+juglans regia
+pinus
+pistacia vera
+prunus dulcis
+macadamia tetraphylla
+juglans ailanthifolia
+quercus
+fagus
+juglans cinerea
+castanea mollissima
+castanea sativa
+corylus
+carya
+castanea crenata
+canarium ovatum
+pinus edulis
+macadamia
+juglans
+cajanus cajan
+cicer arietinum
+lathyrus sativus
+lens culinaris
+lupinus
+phaseolus coccineus
+phaseolus lunatus
+phaseolus vulgaris
+pisum sativum
+vicia faba
+vigna angularis
+vigna mungo
+vigna radiata
+vigna umbellata
+vigna unguiculata
+vigna unguiculata ssp. cylindrica
+lablab purpureus
+lupinus albus
+vigna aconitifolia
+psophocarpus tetragonolobus
+vigna unguiculata ssp. unguiculata
+vigna unguiculata ssp. sesquipedalis
+glycine max
+herbs and spices
+herbs and spices
+vegetables
+fruits
+nuts
+pulses
+soy
+herbs
+spices
+oilseed crops
+other seeds
+herb and spice mixtures
+herbs and spices
+cabbages
+onion-family vegetables
+root vegetables
+shoot vegetables
+leaf vegetables
+fruit vegetables
+tubers
+stalk vegetables
+other vegetables
+mushrooms
+vegetable products
+brassicas
+green vegetables
+tropical fruits
+citrus
+pomes
+berries
+other fruits
+drupes
+fruit products
+fruits
+nuts
+peas
+lentils
+other pulses
+beans
+pulses
+soy
+soy products
