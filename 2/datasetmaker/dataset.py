@@ -42,7 +42,7 @@ def maker(path_with_name, path_with_name_new, start_id=0):
 
 if __name__ == '__main__':
     path_with_name = '/docs/csv/gramms_test_valid.csv'
-    path_with_name_new = './dataset.csv'
+    path_with_name_new = 'dataset.csv'
     start_id = 260
     maker(path_with_name, path_with_name_new, start_id)
 #

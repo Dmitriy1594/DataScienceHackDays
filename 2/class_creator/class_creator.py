@@ -1,24 +1,21 @@
 import re
-# from nltk.corpus import stopwords
+from joblib import dump, load
+import pandas as pd
 from collections import Counter
 
 class classPredictor:
 
-    def __init__(self, txt1, txt2, txt3, txt4, txt5, path_stopwords='/Users/romakindmitriy/Desktop/hack_days/stopwords.txt') -> None:
-    # def __init__(self, path_stopwords='./../stopwords.txt') -> None:
-
-        # self.txt1 = txt1
-        # self.txt2 = txt2
-        # self.txt3 = txt3
-        # self.txt4 = txt4
-        # self.txt5 = txt5
-
+    def __init__(self, txt1=None, txt2=None, txt3=None, txt4=None, txt5=None) -> None:
+        # self.model = False
+        #
+        # if txt1 is None:
+        #     self.model = True
+        # else:
+        #     self.txts = [txt1, txt2, txt3, txt4, txt5]
         self.txts = [txt1, txt2, txt3, txt4, txt5]
 
+
         self.stopwords = self.loadStopWords()
-        # print(self.stopwords[:10])
-        # print('crl' in self.stopwords)
-        # print(len(self.stopwords))
 
         super().__init__()
 
@@ -37,7 +34,7 @@ class classPredictor:
             return ""
 
     @staticmethod
-    def loadStopWords(path='/Users/romakindmitriy/Desktop/hack_days/stopwords.txt') -> list:
+    def loadStopWords(path='/Users/romakindmitriy/Desktop/hack_days/docs/stopwords.txt') -> list:
         with open(path, 'r') as f:
             stopwords = f.readlines()
 
@@ -70,9 +67,19 @@ class classPredictor:
         elif rmin[1] == rmax[1]:
             return 6
 
+    @staticmethod
+    def predictByModel(msg, path_to_model='/Users/romakindmitriy/PycharmProjects/DataScienceHackDays/model/ExtraTreesClassifier.joblib') -> int:
+        clf = load(path_to_model)
+        data = [[msg]]
+        df = pd.DataFrame(data, columns=['message'])
+        result = int(clf.predict(df['message'][:1])[0])
+        return result
+
     def predictClass(self, msg) -> int:
         msg_clear = self.preprocess(msg)
         print(msg_clear)
+
+        # if self.model is False:
 
         result = {}
 
@@ -93,17 +100,22 @@ class classPredictor:
 
             result[i+1] = len(local_result)
 
-        # print(result)
-        # answ = result.items()
-        # print(max(answ, key=lambda x: x[1]))
-        # print(self.__getMax(result))
         answ = self.__getMax(result)
+
+        if answ == 6:
+            answ = self.predictByModel(msg_clear)
+
         return answ
-            # exit(0)
+
+        # elif self.model is True:
+        #     result = self.predictByModel(msg_clear)
+        #     return result
+
 
 if __name__ == '__main__':
-    clcr = classPredictor('./df1.txt', './df2.txt', './df3.txt', './df4.txt', './df5.txt')
-    msg = 'CEREALS RTE,QUAKER,SHREDDED WHEAT,BAGGED CRL'
-    clcr.predictClass(msg)
+    # clcr = classPredictor('./df1.txt', './df2.txt', './df3.txt', './df4.txt', './df5.txt')
+    clcr = classPredictor()
+    msg = 'STRAWBERRIES,FRZ,SWTND,SLICED'
+    print(clcr.predictClass(msg))
 
 # CEREALS RTE,QUAKER,SHREDDED WHEAT,BAGGED CRL

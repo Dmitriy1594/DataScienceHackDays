@@ -4,10 +4,10 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 stop_words = set(stopwords.words('english'))
 
 
-with open('docs/freq_words.txt', 'r') as f:
+with open('../docs/freq_words.txt', 'r') as f:
     words = f.readlines()
 
-with open('docs/translate_freq_words.txt', 'r') as f:
+with open('../docs/translate_freq_words.txt', 'r') as f:
     translate_words = f.readlines()
 
 translate_words = list(map(lambda x: x.lower(), translate_words))
